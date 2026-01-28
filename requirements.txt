@@ -7,4 +7,5 @@ tensorboard
 seaborn
 streamlit
 scikeras
+altair==4.2.2
 keras
